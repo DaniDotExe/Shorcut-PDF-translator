@@ -1,0 +1,25 @@
+import keyboard
+import time
+
+keyboard.press_and_release("shift+f10")
+time.sleep(0.010)
+keyboard.press_and_release("down")
+print("1")
+keyboard.press_and_release("down")
+print("2")
+keyboard.press_and_release("down")
+print("3")
+keyboard.press_and_release("down")
+print("4")
+keyboard.press_and_release("down")
+print("5")
+keyboard.press_and_release("down")
+print("6")
+keyboard.press_and_release("down")
+print("7")
+keyboard.press_and_release("down")
+print("8") 
+keyboard.press_and_release("enter")
+print("enter") 
+
+print("Final")
