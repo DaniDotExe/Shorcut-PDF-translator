@@ -35,3 +35,5 @@ Advanced options
 Other
 Open file/program
 finalmente pegamos el path de nuestro archivo .exe 
+
+[Mouse tooltip translator ]([https://chrome.google.com/webstore/detail/darkpdf/cfemcmeknmapecneeeaajnbhhgfgkfhp](https://chrome.google.com/webstore/detail/mouse-tooltip-translator/hmigninkgibhdckiaphhmbgcghochdjc))
